@@ -8,12 +8,10 @@ for i in range(5):
     print('')
 
    #output
-'''*
-   **
-   ***
-   ****
-   *****'''
+'''  *
+     **
+     ***
+     ****
+     *****  '''
 
-    '''print("Asterisk triangle")
-    for g in range(11, 0, -1):
-        print(g * ' ' + (11 - g) * '*')'''
+    
